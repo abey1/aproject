@@ -1,0 +1,23 @@
+Crypto Responsive Landing Page perfectly organized and designed with latest design trends. Created for Sketch, Figma and Adobe XD.
+
+
+Features
+
++ Desktop and Mobile version
++ Free Google fonts
++ Easy Customize with Styles
++ Sketch, Figma and Adobe XD version
++ Bootstrap Grid
+
+
+Fonts
+https://fonts.google.com/specimen/Gruppo
+https://fonts.google.com/specimen/Lato
+
+Images
+https://unsplash.com
+https://photos.icons8.com
+
+Icons
+https://iconmonstr.com
+https://www.flaticon.com

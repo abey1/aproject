@@ -1,0 +1,23 @@
+Event Responsive Landing Page perfectly organized and designed with latest design trends. Created for Sketch, Figma and Adobe XD.
+
+
+Features
+
++ Desktop and Mobile version
++ Free Google fonts
++ Easy Customize with Styles
++ Sketch, Figma and Adobe XD version
++ Bootstrap Grid
+
+
+Fonts
+https://fonts.google.com/specimen/Spartan
+https://fonts.google.com/specimen/Source+Sans+Pro
+
+Images
+https://unsplash.com
+https://photos.icons8.com
+https://pixabay.com
+
+Icons
+https://www.flaticon.com/packs/advertising-8

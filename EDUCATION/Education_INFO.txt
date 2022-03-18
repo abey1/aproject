@@ -1,0 +1,24 @@
+Education Responsive Landing Page perfectly organized and designed with latest design trends. Created for Sketch, Figma and Adobe XD.
+
+
+Features
+
++ Desktop and Mobile version
++ Free Google fonts
++ Easy Customize with Styles
++ Sketch, Figma and Adobe XD version
++ Bootstrap Grid
+
+
+Fonts
+https://fonts.google.com/specimen/Lora
+https://fonts.google.com/specimen/Alegreya+Sans
+
+Images
+https://unsplash.com
+https://photos.icons8.com
+https://pixabay.com/
+https://icons8.ru/ouch/style/scribbles
+
+Icons
+https://www.flaticon.com/packs/education-29

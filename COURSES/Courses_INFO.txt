@@ -1,0 +1,24 @@
+Courses Online University Learning Education Responsive Landing Page perfectly organized and designed with latest design trends. Created for Sketch, Figma and Adobe XD.
+
+
+Features
+
++ Desktop and Mobile version
++ Free Google fonts
++ Easy Customize with Styles
++ Sketch, Figma and Adobe XD version
++ Bootstrap Grid
+
+
+Fonts
+https://fonts.google.com/specimen/Atkinson+Hyperlegible
+
+Images
+https://unsplash.com
+https://photos.icons8.com
+https://pexels.com
+https://freepik.com
+
+Icons
+https://flaticon.com
+https://iconmonstr.com
