@@ -1,0 +1,25 @@
+Kids Education Lessons Responsive Landing Page perfectly organized and designed with latest design trends. Created for Sketch, Figma and Adobe XD.
+
+
+Features
+
++ Desktop and Mobile version
++ Free Google fonts
++ Easy Customize with Styles
++ Sketch, Figma and Adobe XD version
++ Bootstrap Grid
+
+
+Fonts
+https://fonts.google.com/specimen/Kulim+Park
+
+Images
+https://unsplash.com
+https://photos.icons8.com
+https://pexels.com
+https://www.freepik.com/free-photo/beautiful-little-blonde-girl-smiles-winking-posing-touching-face-with-her-hands-pink-cute-dress-child-looking-happy-delighted-copy-space_8685885.htm
+https://www.pixeden.com/psd-mock-up-templates/gravity-psd-iphone-12-mockup-set
+
+Icons
+https://flaticon.com
+https://iconmonstr.com
